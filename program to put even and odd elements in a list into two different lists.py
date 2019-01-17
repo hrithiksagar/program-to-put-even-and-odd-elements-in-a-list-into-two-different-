@@ -1,4 +1,4 @@
-program to put even and odd elements in a list into two different lists
+#program to put even and odd elements in a list into two different lists
 l=[]
 even=[]
 odd=[]
